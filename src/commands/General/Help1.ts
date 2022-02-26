@@ -26,17 +26,17 @@ export default class Command extends BaseCommand {
             mimetype: Mimetype.gif,
             caption: `-🄶🄴🄽🄴🅁🄰🄻 🄻🄸🅂🅃 🧣
 ──────────────
-🧧 ${this.client.config.prefix}ᴀᴅᴍɪɴꜱ
-🧧 ${this.client.config.prefix}ᴇᴠᴇʀʏᴏɴᴇ
-🧧 ${this.client.config.prefix}ᴍᴏᴅꜱ
-🧧 ${this.client.config.prefix}ᴘʀᴏꜰɪʟᴇ
-🧧 ${this.client.config.prefix}ʀᴀɴᴋ
-🧧 ${this.client.config.prefix}xᴘ
-🧧 ${this.client.config.prefix}ɪɴᴠɪᴛᴇʟɪɴᴋ
-🧧 ${this.client.config.prefix}ᴅᴇʟᴇᴛᴇ
-🧧 ${this.client.config.prefix}ʀᴇᴛʀɪᴇᴠᴇ
-🧧 ${this.client.config.prefix}ʜɪ
-🧧 ${this.client.config.prefix}ʀɪɴ
+🕸️ ${this.client.config.prefix}ᴀᴅᴍɪɴꜱ
+🕷️ ${this.client.config.prefix}ᴇᴠᴇʀʏᴏɴᴇ
+🕸️ ${this.client.config.prefix}ᴍᴏᴅꜱ
+🕷️ ${this.client.config.prefix}ᴘʀᴏꜰɪʟᴇ
+🕸️ ${this.client.config.prefix}ʀᴀɴᴋ
+🕷️ ${this.client.config.prefix}xᴘ
+🕸️ ${this.client.config.prefix}ɪɴᴠɪᴛᴇʟɪɴᴋ
+🕷️ ${this.client.config.prefix}ᴅᴇʟᴇᴛᴇ
+🕸️ ${this.client.config.prefix}ʀᴇᴛʀɪᴇᴠᴇ
+🕷️ ${this.client.config.prefix}ʜɪ
+🕸️ ${this.client.config.prefix}ʀɪɴ
 ──────────────` }
         )
     }

@@ -32,45 +32,45 @@ export default class Command extends BaseCommand {
 
 🎗 ᴘʀᴇꜰɪx - ${this.client.config.prefix}
 ────────────────
--🄶🄴🄽🄴🅁🄰🄻 🧣
+-🄶🄴🄽🄴🅁🄰🄻 🕷️
 
-🎐 ${this.client.config.prefix}Ｈｅｌｐ1 [${this.client.config.prefix}ｈ１]
+🕸️ ${this.client.config.prefix}Ｈｅｌｐ1 [${this.client.config.prefix}ｈ１]
 
--🅆🄴🄴🄱🅂 🧣
+-🅆🄴🄴🄱🅂 🕷️
 
-🎐 ${this.client.config.prefix}Ｈｅｌｐ2 [${this.client.config.prefix}ｈ2]
+🕸️ ${this.client.config.prefix}Ｈｅｌｐ2 [${this.client.config.prefix}ｈ2]
 
--🄵🅄🄽 🧣
+-🄵🅄🄽 🕷️
 
-🎐 ${this.client.config.prefix}Ｈｅｌｐ3 [${this.client.config.prefix}ｈ3]
+🕸️ ${this.client.config.prefix}Ｈｅｌｐ3 [${this.client.config.prefix}ｈ3]
 
--🄼🄴🄳🄸🄰 🧣
+-🄼🄴🄳🄸🄰 🕷️
 
- 🎐 ${this.client.config.prefix}Ｈｅｌｐ4 [${this.client.config.prefix}ｈ4]
+ 🕸️ ${this.client.config.prefix}Ｈｅｌｐ4 [${this.client.config.prefix}ｈ4]
 
--🅄🅃🄸🄻🅂 🧣
+-🅄🅃🄸🄻🅂 🕷️
 
- 🎐 ${this.client.config.prefix}Ｈｅｌｐ5 [${this.client.config.prefix}ｈ5]
+ 🕸️ ${this.client.config.prefix}Ｈｅｌｐ5 [${this.client.config.prefix}ｈ5]
 
--🄼🄾🄳🄴🅁🄰🅃🄸🄾🄽 🧣
+-🄼🄾🄳🄴🅁🄰🅃🄸🄾🄽 🕷️
 
-🎐 ${this.client.config.prefix}Ｈｅｌｐ6 [${this.client.config.prefix}ｈ6]
+🕸️ ${this.client.config.prefix}Ｈｅｌｐ6 [${this.client.config.prefix}ｈ6]
 
--🄴🄳🅄🄲🄰🅃🄸🅅🄴 🧣
+-🄴🄳🅄🄲🄰🅃🄸🅅🄴 🕷️
 
-🎐 ${this.client.config.prefix}Ｈｅｌｐ7 [${this.client.config.prefix}ｈ7]
+🕸️ ${this.client.config.prefix}Ｈｅｌｐ7 [${this.client.config.prefix}ｈ7]
 
--🄽🅂🄵🅆 🧣
+-🄽🅂🄵🅆 🕷️
 
-🎐 ${this.client.config.prefix}Ｈｅｌｐ8 [${this.client.config.prefix}ｈ8]
+🕸️ ${this.client.config.prefix}Ｈｅｌｐ8 [${this.client.config.prefix}ｈ8]
 
 ────────────────
- ──❅┈[ ᖇᎥᑎ ᗷᗝ丅 ]┈❅───
+ ──❅┈[ 𝔰𝔭𝔦𝔡𝔶 𝔟𝔬𝔱 ]┈❅───
 ┌────────────┈❅
-│   🧨 ᖇᎥᑎ
-│   ©️ Synthesized Infinity Botto (OWNER FALLING)
+│   🕷️ⓢⓟⓘⓓⓨ
+│   🕸️ *Your friendly family nabourhood spiderman  (OWNER FALLING)
 └────────────┈⁂
-❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
+❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲 *Buddy*]┈❅
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
         )
     }

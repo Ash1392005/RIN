@@ -24,19 +24,19 @@ export default class Command extends BaseCommand {
         let well = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: well }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `-🄼🄾🄳🄴🅁🄰🅃🄸🄾🄽 🄻🄸🅂🅃 🧣
+            caption: `-🄼🄾🄳🄴🅁🄰🅃🄸🄾🄽 🄻🄸🅂🅃 ❤️
 ──────────────
-🧧 ${this.client.config.prefix}ᴀᴄᴛɪᴠᴀᴛᴇ
-🧧 ${this.client.config.prefix}ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇ
-🧧 ${this.client.config.prefix}ᴅᴇᴍᴏᴛᴇ
-🧧 ${this.client.config.prefix}ɢʀᴏᴜᴘᴄʜᴀɴɢᴇ
-🧧 ${this.client.config.prefix}ᴘʀᴏᴍᴏᴛᴇ
-🧧 ${this.client.config.prefix}ᴘᴜʀɢᴇ
-🧧 ${this.client.config.prefix}ʀᴇᴍᴏᴠᴇ
-🧧 ${this.client.config.prefix}ᴄʟᴏꜱᴇ
-🧧 ${this.client.config.prefix}ᴏᴘᴇɴ
-🧧 ${this.client.config.prefix}ʀᴇᴠᴏᴋᴇ
-🧧 ${this.client.config.prefix}ᴘᴘᴄᴏᴜᴘʟᴇ
+🕷️ ${this.client.config.prefix}ᴀᴄᴛɪᴠᴀᴛᴇ
+🕸️ ${this.client.config.prefix}ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇ
+🕷️ ${this.client.config.prefix}ᴅᴇᴍᴏᴛᴇ
+🕸️ ${this.client.config.prefix}ɢʀᴏᴜᴘᴄʜᴀɴɢᴇ
+🕷️ ${this.client.config.prefix}ᴘʀᴏᴍᴏᴛᴇ
+🕸️ ${this.client.config.prefix}ᴘᴜʀɢᴇ
+🕷️ ${this.client.config.prefix}ʀᴇᴍᴏᴠᴇ
+🕸️ ${this.client.config.prefix}ᴄʟᴏꜱᴇ
+🕷️ ${this.client.config.prefix}ᴏᴘᴇɴ
+🕸️ ${this.client.config.prefix}ʀᴇᴠᴏᴋᴇ
+🕷️ ${this.client.config.prefix}ᴘᴘᴄᴏᴜᴘʟᴇ
 ──────────────` }
         )
     }
